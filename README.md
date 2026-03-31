@@ -1,25 +1,4 @@
 # Hi, I'm Pradumn Kumar Pathak 👋
 
-I'm a Web Developer from India who loves building things for the web.
-
-## About Me
-
-- 🔭 Currently working on web development projects
-- 🌱 Always learning and exploring new technologies
-- 💬 Ask me about HTML, CSS, and JavaScript
-- 📫 Reach me at: your@email.com
-
-## Tech Stack
-
-- HTML | CSS | JavaScript
-- Git & GitHub
-- VS Code
-
-## Connect With Me
-
-- LinkedIn: [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/pradumn-pathak-69020236a/])
-
-
----
-
+I'm a Web Developer from India with hands-on experience in the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building full-stack web applications and writing clean, efficient code. I'm always looking to learn and grow as a developer. Feel free to explore my projects and reach out!
 *Thanks for visiting my profile!*
