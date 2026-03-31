@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Pradumn Kumar Pathak 👋
 
-<!--
-**priyam0005/priyam0005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer from India who loves building things for the web.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on web development projects
+- 🌱 Always learning and exploring new technologies
+- 💬 Ask me about HTML, CSS, and JavaScript
+- 📫 Reach me at: your@email.com
+
+## Tech Stack
+
+- HTML | CSS | JavaScript
+- Git & GitHub
+- VS Code
+
+## Connect With Me
+
+- LinkedIn: [linkedin.com/in/yourprofile]([https://www.linkedin.com/in/pradumn-pathak-69020236a/])
+
+
+---
+
+*Thanks for visiting my profile!*
